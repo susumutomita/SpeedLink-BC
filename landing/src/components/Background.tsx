@@ -37,7 +37,7 @@ export default function Background() {
           </div>
           <p className="text-xl text-gray-700 leading-relaxed max-w-4xl mx-auto">
             SpeedLink+BCは、こうした課題に対して、「自動で速度を動画に合成」「改ざん不可能な証明」を
-            同時に提供する新たなプラットフォームです。誰でも手軽に"プロ級"の球速映像を作れるうえ、
+            同時に提供する新たなプラットフォームです。誰でも手軽に&quot;プロ級&quot;の球速映像を作れるうえ、
             そのデータをブロックチェーンで証明することで、ユーザーが大切に残したい自己ベストや思い出を確かな形で保存します。
           </p>
         </motion.div>

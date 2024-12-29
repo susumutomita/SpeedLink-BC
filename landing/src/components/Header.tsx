@@ -17,9 +17,9 @@ export default function Header() {
             <span className="text-blue-300">+BC</span>
           </h1>
           <p className="text-xl md:text-2xl mb-12 leading-relaxed">
-            あなたのピッチング映像に球速を自動合成、かつブロックチェーンで"記録"を守る。
+            あなたのピッチング映像に球速を自動合成、かつブロックチェーンで&quot;記録&quot;を守る。
             <br />
-            草野球プレーヤーも"プロ級"の中継体験とデータ資産を同時に実現。
+            草野球プレーヤーも&quot;プロ級&quot;の中継体験とデータ資産を同時に実現。
           </p>
           <Button className="bg-yellow-400 text-blue-900 hover:bg-yellow-300 text-lg px-10 py-6 rounded-full shadow-lg transition-all duration-300 transform hover:scale-105 hover:shadow-xl" disabled>
 
